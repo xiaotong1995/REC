@@ -1,4 +1,4 @@
-# File: .github/workflows/repo-scripts.yml
+# File: .github/workflows/.yml
 name: 自动同步工作流程
 on:
   schedule:
